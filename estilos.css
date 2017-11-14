@@ -1,0 +1,25 @@
+* {
+    font-family: inherit;
+    color: whitesmoke;
+    
+}
+
+#ifswitch , #forwhile, .principal{
+    background-color: #1d2129;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 5px;
+}
+
+.exito, .calcular {
+    color:forestgreen;
+}
+
+.fracaso {
+    color: red;
+}
+
+#opcion , #enviando , #opcion1, #opcion2 , #aceptar, #opcion3, #opcion4, #calculando{
+    color: darkolivegreen ;
+}
+
